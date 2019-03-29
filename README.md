@@ -1,4 +1,4 @@
-# CSAudioCDBurner
+# CSAudioCDPlayer
 .NET component to play audio CD with audio graph and FreeDB support.
 
 ![alt CSAudioCDPlayer](https://www.microncode.com/developers/cs-audio-cd-player/images/cs-audio-cd-player.png "CSAudioCDPlayer")
@@ -65,6 +65,6 @@ audioCDPlayer1.UserKey = "af17a2727d6711c13c824563bc16c92e";
 
 For commercial or any other usage please buy a license to get your own username and regkey (one time fee of 89$) at:
 
-[Buy CSAudioCDBurner Commercial License](https://order.shareit.com/cart/add?vendorid=200277377&PRODUCT[300914525]=1)
+[Buy CSAudioCDPlayer Commercial License](https://order.shareit.com/cart/add?vendorid=200277377&PRODUCT[300914525]=1)
 
 * The source code of this component is also available.
