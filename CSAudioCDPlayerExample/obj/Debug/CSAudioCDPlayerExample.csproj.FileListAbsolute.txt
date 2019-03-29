@@ -1,0 +1,17 @@
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\bin\Debug\CSAudioCDPlayerExample.exe.config
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\bin\Debug\CSAudioCDPlayerExample.exe
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\bin\Debug\CSAudioCDPlayerExample.pdb
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\bin\Debug\CSAudioCDPlayer.dll
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\bin\Debug\CSCore.dll
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\bin\Debug\taglib-sharp.dll
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\bin\Debug\CSAudioCDPlayer.pdb
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\obj\Debug\CSAudioCDPlayerExample.frmAudioCDPlayer.resources
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\obj\Debug\CSAudioCDPlayerExample.Properties.Resources.resources
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\obj\Debug\CSAudioCDPlayerExample.csproj.GenerateResource.cache
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\obj\Debug\CSAudioCDPlayerExample.csproj.CoreCompileInputs.cache
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\obj\Debug\CSAudioCDPlayerExample.csproj.CopyComplete
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\obj\Debug\CSAudioCDPlayerExample.exe
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\obj\Debug\CSAudioCDPlayerExample.pdb
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\bin\Debug\CSAudioCDPlayer.xml
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\obj\Debug\CSAudioCDPlayerExample.csprojAssemblyReference.cache
+D:\MyCode\A\Apps\final\ReadyLib\Microncode\Developer\CSAudio\CSAudioCDPlayerComponent\Component\Examples\CSAudioCDPlayerExample\bin\Debug\Credits.txt

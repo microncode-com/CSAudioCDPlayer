@@ -1,0 +1,158 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CSAudioCDPlayerExampleVB
+</name>
+</assembly>
+<members>
+<member name="T:CSAudioCDPlayerExampleVB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CSAudioCDPlayerExampleVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CSAudioCDPlayerExampleVB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.AudioCDPlayer1_PlayDone(System.Object,System.EventArgs)">
+ <summary>
+ When done playing event.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.AudioCDPlayer1_PlayError(System.Object,CSAudioCDPlayer.MessageArgs)">
+ <summary>
+ On error.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.AudioCDPlayer1_PlayStart(System.Object,System.EventArgs)">
+ <summary>
+ When start playing event.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.frmAudioCDPlayer_Load(System.Object,System.EventArgs)">
+ <summary>
+ Form load
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.LoadCDTracks">
+ <summary>
+ Load the CD tracks to the list view.
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.btnOpen_Click(System.Object,System.EventArgs)">
+ <summary>
+ Open the CD door.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.btnClose_Click(System.Object,System.EventArgs)">
+ <summary>
+ Close the CD door.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.btnRefresh_Click(System.Object,System.EventArgs)">
+ <summary>
+ Refresh the CD tracks.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.cmdLoadFreeDB_Click(System.Object,System.EventArgs)">
+ <summary>
+ Load the FreeDB using the events.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.cmdLoadFreeDBAsync_Click(System.Object,System.EventArgs)">
+ <summary>
+ Load the FreeDB using Async.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.tmrPlayerPosition_Tick(System.Object,System.EventArgs)">
+ <summary>
+ Display the position of the playing operation.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.cmdPause_Click(System.Object,System.EventArgs)">
+ <summary>
+ Pause play.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.cmdResume_Click(System.Object,System.EventArgs)">
+ <summary>
+ Resume play.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.cmdStop_Click(System.Object,System.EventArgs)">
+ <summary>
+ Stop to play.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.trckPlayerPosition_MouseDown(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Disable the tmrPlayerPosition on mouse down.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.trckPlayerPosition_MouseUp(System.Object,System.Windows.Forms.MouseEventArgs)">
+ <summary>
+ Seek the play to the slider position.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.trckVolume_ValueChanged(System.Object,System.EventArgs)">
+ <summary>
+ Set the volume of the player.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.frmAudioCDPlayer_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+ <summary>
+ Safe exit.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:CSAudioCDPlayerExampleVB.frmAudioCDPlayer.cmdCheckLicense_Click(System.Object,System.EventArgs)">
+ <summary>
+ Check the license.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
