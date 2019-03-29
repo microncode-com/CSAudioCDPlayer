@@ -61,10 +61,10 @@ audioCDPlayer1.UserKey = "af17a2727d6711c13c824563bc16c92e";
 
 # Commercial usage
 
-![alt License](http://microncode.com/images/medal128.png "License")
+![alt License](http://www.microncode.com/images/medal128.png "License")
 
 For commercial or any other usage please buy a license to get your own username and regkey (one time fee of 89$) at:
 
-[Buy CSAudioCDPlayer Commercial License](https://order.shareit.com/cart/add?vendorid=200277377&PRODUCT[300914525]=1)
+[Buy CSAudioCDPlayer Commercial License](https://order.shareit.com/cart/add?vendorid=200277377&PRODUCT[300914534]=1)
 
 * The source code of this component is also available.
