@@ -12,26 +12,26 @@ The CSAudioCDPlayer is a .NET component that can play an Audio CD tracks using C
 - Get all the installed output devices.
 - Set the output device to play to.
 - Set the format:
--- 48Khz to 8Khz sample rates.
--- 8, 16, 24 and 32 bits depth.
--- Mono or stereo.
+	- 48Khz to 8Khz sample rates.
+	- 8, 16, 24 and 32 bits depth.
+	- Mono or stereo.
 - Get the tracks list.
 - Get the drives list.
 - Open / Close the selected drive door.
 - Embedly audio visualization:
--- Set the color base.
--- Set the color max.
--- Set the interval.
--- Set the number of bars to display.
--- Set the spacing between the bars.
+	- Set the color base.
+	- Set the color max.
+	- Set the interval.
+	- Set the number of bars to display.
+	- Set the spacing between the bars.
 - Embedly audio meter.
 - Set the volume.
 - Built in FreeDB control:
--- Get the track names.
--- Get the album name.
--- Get the artist name.
--- Get the genre.
--- Get the Audio CD id.
+	- Get the track names.
+	- Get the album name.
+	- Get the artist name.
+	- Get the genre.
+	- Get the Audio CD id.
 - Many relevant events.
 - Built in threads handling.
 - Safe exit.
@@ -48,6 +48,7 @@ The CSAudioCDPlayer is a .NET component that can play an Audio CD tracks using C
 This component uses some external libraries / plugins in the background:
 - [CSCore](https://github.com/filoe/cscore)
 - [TagLib#](https://github.com/mono/taglib-sharp)
+
 Those external libraries / plugins are already existing in the examples.
 
 # FREE Usage
