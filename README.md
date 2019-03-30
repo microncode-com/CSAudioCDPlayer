@@ -44,13 +44,6 @@ The CSAudioCDPlayer is a .NET component that can play an Audio CD tracks using C
 - Licensed under the MS-PL.
 - Can be used in commercial products.
 
-# Background
-This component uses some external libraries / plugins in the background:
-- [CSCore](https://github.com/filoe/cscore)
-- [TagLib#](https://github.com/mono/taglib-sharp)
-
-Those external libraries / plugins are already existing in the examples.
-
 # FREE Usage
 This component can be use for FREE for personal or free usage. Just add the following details to the username and the regkey in the form_load event:
 
@@ -68,3 +61,14 @@ For commercial or any other usage please buy a license to get your own username 
 [Buy CSAudioCDPlayer Commercial License](https://order.shareit.com/cart/add?vendorid=200277377&PRODUCT[300914534]=1)
 
 * The source code of this component is also available.
+
+# License
+- The examples and the component is licensed under MS-PL. 
+- Some external libraries / plugin may lincesed under LGPL.
+
+# Credits
+This component uses some external libraries / plugins in the background:
+- [CSCore](https://github.com/filoe/cscore)
+- [TagLib#](https://github.com/mono/taglib-sharp)
+
+Those external libraries / plugins are already included with the examples.
