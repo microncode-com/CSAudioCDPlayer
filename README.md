@@ -1,7 +1,7 @@
 # CSAudioCDPlayer
 .NET component to play audio CD with audio graph and FreeDB support.
 
-![alt CSAudioCDPlayer](https://www.microncode.com/developers/cs-audio-cd-player/images/cs-audio-cd-player.png "CSAudioCDPlayer")
+![alt CSAudioCDPlayer](https://www.microncode.com/images/developers/cs-audio-cd-player/images/cs-audio-cd-player.png "CSAudioCDPlayer")
 
 # About
 The CSAudioCDPlayer is a .NET component that can play an Audio CD tracks using C#, VB in the .NET platform with a specific format and audio visualization and a built in FreeDB control.
